@@ -2,7 +2,7 @@
 
 AutoDeFi is an AI-powered platform that enables users to create, deploy, and interact with various types of blockchain agents on the Open Campus Codex network. The platform provides a user-friendly interface for creating and managing agents specialized in DeFi, gaming, and social interactions.
 
-![AutoDeFi Dashboard](https://placeholder.com/dashboard-screenshot.png)
+![AutoDeFi Dashboard](assets/autodefi.jpg)
 
 ## Table of Contents
 
