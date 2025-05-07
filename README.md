@@ -37,9 +37,11 @@ Each agent is deployed as a smart contract on the Open Campus Codex blockchain, 
 - **MongoDB Integration**: Persistent storage of agent data and interactions.
 - **OpenAI Integration**: Leveraging advanced AI models for natural language understanding and generation.
 
-Smart Contracts delpoyed by
+## Smart Contracts
 
-0x3a18f9f0E07269D2a9161A0E83745b4e8BbAdEE8
+All agent smart contracts created during hackathon
+[0x3a18f9f0E07269D2a9161A0E83745b4e8BbAdEE8](https://edu-chain-testnet.blockscout.com/address/0x3a18f9f0E07269D2a9161A0E83745b4e8BbAdEE8?tab=txs)
+
 
 
 ## Technology Stack
