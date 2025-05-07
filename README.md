@@ -39,9 +39,8 @@ Each agent is deployed as a smart contract on the Open Campus Codex blockchain, 
 
 ## Smart Contracts
 
-All agent smart contracts created during hackathon
+All agent smart contracts created during hackathon: 
 [0x3a18f9f0E07269D2a9161A0E83745b4e8BbAdEE8](https://edu-chain-testnet.blockscout.com/address/0x3a18f9f0E07269D2a9161A0E83745b4e8BbAdEE8?tab=txs)
-
 
 
 ## Technology Stack
@@ -52,6 +51,10 @@ All agent smart contracts created during hackathon
 - **Blockchain**: Open Campus Codex
 - **AI**: OpenAI API
 - **Authentication**: JWT-based authentication
+
+## Demo / Pitch video
+
+[![Watch the demo](https://img.youtube.com/vi/8q8Qp6LvHSY/hqdefault.jpg)](https://www.youtube.com/watch?v=8q8Qp6LvHSY)
 
 ## Getting Started
 
